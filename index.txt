@@ -2,17 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = urfavvtylerr
-urfavvtylerr
-Roblox Developer
+alt = Richard hanrick
+Richard hanrick
+Web developer
 
 Show Contacts
 
 Email
-urfavvtylerr@gmail.com
+richard@example.com
+
+Phone
++1 (213) 352-2795
 
 Birthday
-October 12 2008
+June 23, 1982
+
+Location
+Sacramento, California, USA
 
 # navbar
 
@@ -26,9 +32,10 @@ Contact
 
 About me
 
-Been on Roblox for 4+ years. Started making complete games solo — maps, UI, economy, systems, all of it. At some point I realised the scripting side was what I actually came back to, so I went all in.
+I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
 
-Now I focus purely on scripting and systems architecture. Because I've shipped full games before, I understand what a system needs before you explain it — I know what breaks in production, what players notice, and what's a shortcut vs what actually lasts.
+My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
+
 
 ## service
 
@@ -38,16 +45,18 @@ alt = design icon
 Web design
 The most modern and high-quality design made at a professional level.
 
-alt = Roblox Studio icon
-Roblox Developing
-High-quality development and endless possibilities.
+alt = Web development icon
+Web development
+High-quality development of sites at the professional level.
 
 alt = mobile app icon
-UI Building
-Creating quality controlled UI's for all types of games.
-alt = Web development icon
-Scripting
-Making systems come to life with advanced scripts made sure to last.
+Mobile apps
+Professional development of applications for iOS and Android.
+
+alt = camera icon
+Photography
+I make high-quality photos of any category at a professional level.
+
 
 ## testimonials
 
